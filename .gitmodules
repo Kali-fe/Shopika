@@ -1,0 +1,9 @@
+[submodule "SHOPIKA_admin"]
+	path = SHOPIKA_admin
+	url = https://github.com
+[submodule "SHOPIKA_clients"]
+	path = SHOPIKA_clients
+	url = https://github.com
+[submodule "SHOPIKA_marchand"]
+	path = SHOPIKA_marchand
+	url = https://github.com
